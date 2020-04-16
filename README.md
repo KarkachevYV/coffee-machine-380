@@ -1,4 +1,4 @@
 # coffee-machine-380
-coffee machine
+кофе машина 
 
 Используем HTML JS 
