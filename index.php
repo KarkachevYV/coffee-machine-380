@@ -14,7 +14,7 @@
     <div class="container">
       <div class="row coffee-machine" id="coffee">
         <div class="col-6 coffee-list d-flex flex-column justify-content-around">
-          <div class="coffee-item" onclick="buyCoffee('Капучино', 50, this)">
+          <div class="coffee-item" onclick="buyCoffee('Американо', 50, this)">
             <img src="img/americano.png" alt="">
             <span>Американо - 50 руб.</span>
           </div>
@@ -37,12 +37,12 @@
               <div class="display">
                 <p class="display-text">Выберете кофе</p>
                   <div class="progress">
-                    <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%">
+                    <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
                     </div>
                   </div>
               </div>
               <div class="coffee-cup">
-                <img src="img/americano.png" alt="">
+                <img class ="d-none" src="img/americano.png" alt="">
               </div>
             </div>
             <div class="col-6">
