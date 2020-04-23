@@ -42,7 +42,12 @@ function trashConsole() {
   console.log(Math.random());
 }*/
 
-
+//changeBox.append(coin); //Добавляем в конец
+  //changeBox.prepend(coin);//------- в начало
+  //changeBox.before(coin);//Перед элементом
+  //changeBox.after(coin);//После элемента
+  //changeBox.replaceWith(coin);//Заменяет элемент
+  
 
 
 
