@@ -25,7 +25,7 @@
           <div class="coffee-item" onclick="buyCoffee('Эспрессо', 66, this)">
             <img src="img/espresso.png" alt="">
             <span>Эспрессо - 66 руб.</span>
-          </div>
+          </div> <!--комментарий-->
           <div class="coffee-item" onclick="buyCoffee('Латте', 128, this)">
             <img src="img/latte.jpg" alt="">
             <span>Латте - 128 руб.</span>
